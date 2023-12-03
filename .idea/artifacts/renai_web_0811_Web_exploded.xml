@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="renai_web_0811:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/renai_web_0811_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="renai_web_0811/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="renai_web_0811" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.49" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp.jstl:jstl-api:1.2" />
+          <element id="library" level="project" name="Maven: org.glassfish.web:jstl-impl:1.2" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.75" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
